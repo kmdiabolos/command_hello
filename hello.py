@@ -1,5 +1,5 @@
 // For command line git tutorial
-// GitHub modification
+// GitHub modifications
 
 #coding:utf-8
 print("hello world")
