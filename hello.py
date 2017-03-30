@@ -1,3 +1,5 @@
+// For command line git tutorial
+// Local repository modification
 #coding:utf-8
 print("hello world")
 print("tell your world")
