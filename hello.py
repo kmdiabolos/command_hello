@@ -3,6 +3,7 @@
 // Second: GitHub modifications
 // Third : New Line
 // Test : git push origin
+// Test : merge
 
 #coding:utf-8
 print("hello world")
