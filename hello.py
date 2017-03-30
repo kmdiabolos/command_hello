@@ -1,6 +1,7 @@
 // For command line git tutorial
 // First: Local repository modification
 // Second: GitHub modifications
+// Third : New Line
 
 #coding:utf-8
 print("hello world")
