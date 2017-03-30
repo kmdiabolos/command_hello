@@ -2,6 +2,7 @@
 // First: Local repository modification
 // Second: GitHub modifications
 // Third : New Line
+// Test : git push origin
 
 #coding:utf-8
 print("hello world")
